@@ -1,5 +1,5 @@
 {
-  "data": "{\n  \"data\": \"{\\n  \\\"version\\\": \\\"1.0\\\",\\n  \\\"last_updated\\\": \\\"\\\",\\n  \\\"hotel_count\\\": 0,\\n  \\\"hotels\\\": []\\n}\\n\",\n  \"hotels\": [\n    {\n      \"hotel_id\": \"vdv-amersfoort-a1\",\n      \"hotel_name\": \"Van der Valk Hotel Amersfoort-A1\",\n      \"location\": {\n        \"city\": \"Amersfoort\",\n        \"country\": \"Netherlands\",\n        \"lat\": 52.1958,\n        \"lng\": 5.3983\n      },\n      \"chain\": \"Van der Valk\",\n      \"star_rating\": 4,\n      \"gradia_grade\": \"B\",\n      \"overall_score\": 63,\n      \"badge\": \"B | Service Excellence · Culinary\",\n      \"earned_icons\": [\n        \"service_excellence\",\n        \"culinary\"\n      ],\n      \"last_scan\": \"2026-05-20\",\n      \"scan_status\": \"provisional\",\n      \"dimensions\": {\n        \"design\": {\n          \"self_image\": \"PRESENT\",\n          \"guest_perception\": \"STRONG\",\n          \"gap\": \"HIDDEN_STRENGTH\",\n          \"score\": 72\n        },\n        \"wellness\": {\n          \"self_image\": \"PRESENT\",\n          \"guest_perception\": \"SILENT\",\n          \"gap\": \"OVERESTIMATED\",\n          \"score\": 52\n        },\n        \"technology\": {\n          \"self_image\": \"PRESENT\",\n          \"guest_perception\": \"MIXED\",\n          \"gap\": \"ALIGNED\",\n          \"score\": 68\n        },\n        \"heritage\": {\n          \"self_image\": \"PRESENT\",\n          \"guest_perception\": \"SILENT\",\n          \"gap\": \"OVERESTIMATED\",\n          \"score\": 54\n        },\n        \"culinary\": {\n          \"self_image\": \"LEAD\",\n          \"guest_perception\": \"STRONG\",\n          \"gap\": \"ALIGNED\",\n          \"score\": 80\n        },\n        \"adventure\": {\n          \"self_image\": \"PRESENT\",\n          \"guest_perception\": \"SILENT\",\n          \"gap\": \"OVERESTIMATED\",\n          \"score\": 48\n        },\n        \"connect\": {\n          \"self_image\": \"LEAD\",\n          \"guest_perception\": \"MIXED\",\n          \"gap\": \"OVERESTIMATED\",\n          \"score\": 66\n        },\n        \"generations\": {\n          \"self_image\": \"PRESENT\",\n          \"guest_perception\": \"MIXED\",\n          \"gap\": \"ALIGNED\",\n          \"score\": 63\n        },\n        \"sustainability\": {\n          \"self_image\": \"ABSENT\",\n          \"guest_perception\": \"SILENT\",\n          \"gap\": \"NEUTRAL\",\n          \"score\": 38\n        },\n        \"service_excellence\": {\n          \"self_image\": \"LEAD\",\n          \"guest_perception\": \"STRONG\",\n          \"gap\": \"ALIGNED\",\n          \"score\": 85\n        },\n        \"inclusivity\": {\n          \"self_image\": \"PRESENT\",\n          \"guest_perception\": \"WEAK\",\n          \"gap\": \"OVERESTIMATED\",\n          \"score\": 50\n        },\n        \"community\": {\n          \"self_image\": \"ABSENT\",\n          \"guest_perception\": \"SILENT\",\n          \"gap\": \"NEUTRAL\",\n          \"score\": 35\n        }\n      },\n      \"review_signals\": {\n        \"booking_overall\": 8.5,\n        \"booking_staff\": 9.16,\n        \"booking_hygiene\": 8.99,\n        \"booking_comfort\": 8.93,\n        \"booking_value\": 8.17,\n        \"booking_location\": 8.44,\n        \"review_count_booking\": 1145,\n        \"review_count_tripadvisor\": 2557,\n        \"review_count_google\": 4119\n      },\n      \"top_recommendations\": [\n        {\n          \"priority\": 1,\n          \"dimension\": \"wellness\",\n          \"type\": \"operational\",\n          \"action\": \"Introduce a structured wellness activation programme (guided nature walks, in-room wellness kits, or spa partnerships) and communicate it pre-arrival to convert the 'kom helemaal tot rust' tagline into a tangible guest experience.\"\n        },\n        {\n          \"priority\": 2,\n          \"dimension\": \"design\",\n          \"type\": \"marketing\",\n          \"action\": \"Create a dedicated visual content strategy showcasing Skybar SIXX and Restaurant Rootz across Instagram and Booking.com galleries to capitalise on the hotel's underrecognised but guest-validated design strength.\"\n        },\n        {\n          \"priority\": 3,\n          \"dimension\": \"sustainability\",\n          \"type\": \"operational\",\n          \"action\": \"Build a visible sustainability narrative around existing EV charging infrastructure and introduce at least two communicable green practices such as local sourcing at Rootz or buffet waste reduction to move from absent to credible.\"\n        }\n      ],\n      \"scan_history\": [\n        {\n          \"date\": \"2026-05-20\",\n          \"grade\": \"B\",\n          \"score\": 63\n        }\n      ]\n    }\n  ],\n  \"last_updated\": \"2026-05-20\",\n  \"hotel_count\": 1\n}",
+  "data": "{\n  \"data\": \"{\\n  \\\"data\\\": \\\"{\\\\n  \\\\\\\"version\\\\\\\": \\\\\\\"1.0\\\\\\\",\\\\n  \\\\\\\"last_updated\\\\\\\": \\\\\\\"\\\\\\\",\\\\n  \\\\\\\"hotel_count\\\\\\\": 0,\\\\n  \\\\\\\"hotels\\\\\\\": []\\\\n}\\\\n\\\",\\n  \\\"hotels\\\": [\\n    {\\n      \\\"hotel_id\\\": \\\"vdv-amersfoort-a1\\\",\\n      \\\"hotel_name\\\": \\\"Van der Valk Hotel Amersfoort-A1\\\",\\n      \\\"location\\\": {\\n        \\\"city\\\": \\\"Amersfoort\\\",\\n        \\\"country\\\": \\\"Netherlands\\\",\\n        \\\"lat\\\": 52.1958,\\n        \\\"lng\\\": 5.3983\\n      },\\n      \\\"chain\\\": \\\"Van der Valk\\\",\\n      \\\"star_rating\\\": 4,\\n      \\\"gradia_grade\\\": \\\"B\\\",\\n      \\\"overall_score\\\": 63,\\n      \\\"badge\\\": \\\"B | Service Excellence · Culinary\\\",\\n      \\\"earned_icons\\\": [\\n        \\\"service_excellence\\\",\\n        \\\"culinary\\\"\\n      ],\\n      \\\"last_scan\\\": \\\"2026-05-20\\\",\\n      \\\"scan_status\\\": \\\"provisional\\\",\\n      \\\"dimensions\\\": {\\n        \\\"design\\\": {\\n          \\\"self_image\\\": \\\"PRESENT\\\",\\n          \\\"guest_perception\\\": \\\"STRONG\\\",\\n          \\\"gap\\\": \\\"HIDDEN_STRENGTH\\\",\\n          \\\"score\\\": 72\\n        },\\n        \\\"wellness\\\": {\\n          \\\"self_image\\\": \\\"PRESENT\\\",\\n          \\\"guest_perception\\\": \\\"SILENT\\\",\\n          \\\"gap\\\": \\\"OVERESTIMATED\\\",\\n          \\\"score\\\": 52\\n        },\\n        \\\"technology\\\": {\\n          \\\"self_image\\\": \\\"PRESENT\\\",\\n          \\\"guest_perception\\\": \\\"MIXED\\\",\\n          \\\"gap\\\": \\\"ALIGNED\\\",\\n          \\\"score\\\": 68\\n        },\\n        \\\"heritage\\\": {\\n          \\\"self_image\\\": \\\"PRESENT\\\",\\n          \\\"guest_perception\\\": \\\"SILENT\\\",\\n          \\\"gap\\\": \\\"OVERESTIMATED\\\",\\n          \\\"score\\\": 54\\n        },\\n        \\\"culinary\\\": {\\n          \\\"self_image\\\": \\\"LEAD\\\",\\n          \\\"guest_perception\\\": \\\"STRONG\\\",\\n          \\\"gap\\\": \\\"ALIGNED\\\",\\n          \\\"score\\\": 80\\n        },\\n        \\\"adventure\\\": {\\n          \\\"self_image\\\": \\\"PRESENT\\\",\\n          \\\"guest_perception\\\": \\\"SILENT\\\",\\n          \\\"gap\\\": \\\"OVERESTIMATED\\\",\\n          \\\"score\\\": 48\\n        },\\n        \\\"connect\\\": {\\n          \\\"self_image\\\": \\\"LEAD\\\",\\n          \\\"guest_perception\\\": \\\"MIXED\\\",\\n          \\\"gap\\\": \\\"OVERESTIMATED\\\",\\n          \\\"score\\\": 66\\n        },\\n        \\\"generations\\\": {\\n          \\\"self_image\\\": \\\"PRESENT\\\",\\n          \\\"guest_perception\\\": \\\"MIXED\\\",\\n          \\\"gap\\\": \\\"ALIGNED\\\",\\n          \\\"score\\\": 63\\n        },\\n        \\\"sustainability\\\": {\\n          \\\"self_image\\\": \\\"ABSENT\\\",\\n          \\\"guest_perception\\\": \\\"SILENT\\\",\\n          \\\"gap\\\": \\\"NEUTRAL\\\",\\n          \\\"score\\\": 38\\n        },\\n        \\\"service_excellence\\\": {\\n          \\\"self_image\\\": \\\"LEAD\\\",\\n          \\\"guest_perception\\\": \\\"STRONG\\\",\\n          \\\"gap\\\": \\\"ALIGNED\\\",\\n          \\\"score\\\": 85\\n        },\\n        \\\"inclusivity\\\": {\\n          \\\"self_image\\\": \\\"PRESENT\\\",\\n          \\\"guest_perception\\\": \\\"WEAK\\\",\\n          \\\"gap\\\": \\\"OVERESTIMATED\\\",\\n          \\\"score\\\": 50\\n        },\\n        \\\"community\\\": {\\n          \\\"self_image\\\": \\\"ABSENT\\\",\\n          \\\"guest_perception\\\": \\\"SILENT\\\",\\n          \\\"gap\\\": \\\"NEUTRAL\\\",\\n          \\\"score\\\": 35\\n        }\\n      },\\n      \\\"review_signals\\\": {\\n        \\\"booking_overall\\\": 8.5,\\n        \\\"booking_staff\\\": 9.16,\\n        \\\"booking_hygiene\\\": 8.99,\\n        \\\"booking_comfort\\\": 8.93,\\n        \\\"booking_value\\\": 8.17,\\n        \\\"booking_location\\\": 8.44,\\n        \\\"review_count_booking\\\": 1145,\\n        \\\"review_count_tripadvisor\\\": 2557,\\n        \\\"review_count_google\\\": 4119\\n      },\\n      \\\"top_recommendations\\\": [\\n        {\\n          \\\"priority\\\": 1,\\n          \\\"dimension\\\": \\\"wellness\\\",\\n          \\\"type\\\": \\\"operational\\\",\\n          \\\"action\\\": \\\"Introduce a structured wellness activation programme (guided nature walks, in-room wellness kits, or spa partnerships) and communicate it pre-arrival to convert the 'kom helemaal tot rust' tagline into a tangible guest experience.\\\"\\n        },\\n        {\\n          \\\"priority\\\": 2,\\n          \\\"dimension\\\": \\\"design\\\",\\n          \\\"type\\\": \\\"marketing\\\",\\n          \\\"action\\\": \\\"Create a dedicated visual content strategy showcasing Skybar SIXX and Restaurant Rootz across Instagram and Booking.com galleries to capitalise on the hotel's underrecognised but guest-validated design strength.\\\"\\n        },\\n        {\\n          \\\"priority\\\": 3,\\n          \\\"dimension\\\": \\\"sustainability\\\",\\n          \\\"type\\\": \\\"operational\\\",\\n          \\\"action\\\": \\\"Build a visible sustainability narrative around existing EV charging infrastructure and introduce at least two communicable green practices such as local sourcing at Rootz or buffet waste reduction to move from absent to credible.\\\"\\n        }\\n      ],\\n      \\\"scan_history\\\": [\\n        {\\n          \\\"date\\\": \\\"2026-05-20\\\",\\n          \\\"grade\\\": \\\"B\\\",\\n          \\\"score\\\": 63\\n        }\\n      ]\\n    }\\n  ],\\n  \\\"last_updated\\\": \\\"2026-05-20\\\",\\n  \\\"hotel_count\\\": 1\\n}\",\n  \"hotels\": [\n    {\n      \"hotel_id\": \"\",\n      \"hotel_name\": \"Van der Valk Hotel Amersfoort-A1\",\n      \"location\": {\n        \"city\": \"Amersfoort\",\n        \"country\": \"Netherlands\",\n        \"lat\": 52.1958,\n        \"lng\": 5.3983\n      },\n      \"chain\": \"Van der Valk\",\n      \"star_rating\": 4,\n      \"gradia_grade\": \"B\",\n      \"overall_score\": 69,\n      \"badge\": \"B | Service Excellence · Culinary\",\n      \"earned_icons\": [\n        \"service_excellence\",\n        \"culinary\"\n      ],\n      \"last_scan\": \"2026-05-20\",\n      \"scan_status\": \"provisional\",\n      \"dimensions\": {\n        \"design\": {\n          \"self_image\": \"PRESENT\",\n          \"guest_perception\": \"STRONG\",\n          \"gap\": \"HIDDEN_STRENGTH\",\n          \"score\": 74\n        },\n        \"wellness\": {\n          \"self_image\": \"PRESENT\",\n          \"guest_perception\": \"MIXED\",\n          \"gap\": \"OVERESTIMATED\",\n          \"score\": 55\n        },\n        \"technology\": {\n          \"self_image\": \"PRESENT\",\n          \"guest_perception\": \"MIXED\",\n          \"gap\": \"ALIGNED\",\n          \"score\": 68\n        },\n        \"heritage\": {\n          \"self_image\": \"PRESENT\",\n          \"guest_perception\": \"MIXED\",\n          \"gap\": \"NEUTRAL\",\n          \"score\": 60\n        },\n        \"culinary\": {\n          \"self_image\": \"LEAD\",\n          \"guest_perception\": \"STRONG\",\n          \"gap\": \"ALIGNED\",\n          \"score\": 82\n        },\n        \"adventure\": {\n          \"self_image\": \"ABSENT\",\n          \"guest_perception\": \"SILENT\",\n          \"gap\": \"NEUTRAL\",\n          \"score\": 30\n        },\n        \"connect\": {\n          \"self_image\": \"PRESENT\",\n          \"guest_perception\": \"STRONG\",\n          \"gap\": \"HIDDEN_STRENGTH\",\n          \"score\": 76\n        },\n        \"generations\": {\n          \"self_image\": \"PRESENT\",\n          \"guest_perception\": \"MIXED\",\n          \"gap\": \"OVERESTIMATED\",\n          \"score\": 58\n        },\n        \"sustainability\": {\n          \"self_image\": \"ABSENT\",\n          \"guest_perception\": \"SILENT\",\n          \"gap\": \"BLIND_SPOT\",\n          \"score\": 28\n        },\n        \"service_excellence\": {\n          \"self_image\": \"LEAD\",\n          \"guest_perception\": \"STRONG\",\n          \"gap\": \"ALIGNED\",\n          \"score\": 88\n        },\n        \"inclusivity\": {\n          \"self_image\": \"PRESENT\",\n          \"guest_perception\": \"WEAK\",\n          \"gap\": \"OVERESTIMATED\",\n          \"score\": 45\n        },\n        \"community\": {\n          \"self_image\": \"PRESENT\",\n          \"guest_perception\": \"MIXED\",\n          \"gap\": \"NEUTRAL\",\n          \"score\": 60\n        }\n      },\n      \"review_signals\": {\n        \"booking_overall\": 8.5,\n        \"booking_staff\": 9.16,\n        \"booking_hygiene\": 8.99,\n        \"booking_comfort\": 8.93,\n        \"booking_value\": 8.17,\n        \"booking_location\": 8.44,\n        \"review_count_booking\": 1145,\n        \"review_count_tripadvisor\": 2557,\n        \"review_count_google\": 4119\n      },\n      \"top_recommendations\": [\n        {\n          \"priority\": 1,\n          \"dimension\": \"sustainability\",\n          \"type\": \"operational\",\n          \"action\": \"Formalise and publish a guest-facing sustainability programme leveraging existing EV charging and regional sourcing, and pursue a recognised green certification such as Green Key.\"\n        },\n        {\n          \"priority\": 2,\n          \"dimension\": \"wellness\",\n          \"type\": \"operational\",\n          \"action\": \"Partner with a local spa or therapist to introduce at least one bookable wellness experience that substantiates the 'kom helemaal tot rust' brand promise beyond the fitness room.\"\n        },\n        {\n          \"priority\": 3,\n          \"dimension\": \"inclusivity\",\n          \"type\": \"marketing\",\n          \"action\": \"Create a dedicated accessibility page on the hotel website and brief front desk staff to proactively communicate room and facility adaptations to guests requiring them.\"\n        }\n      ],\n      \"scan_history\": [\n        {\n          \"date\": \"2026-05-20\",\n          \"grade\": \"B\",\n          \"score\": 69\n        }\n      ]\n    }\n  ],\n  \"last_updated\": \"2026-05-20\",\n  \"hotel_count\": 1\n}",
   "hotels": [
     {
       "hotel_id": "",
@@ -13,7 +13,7 @@
       "chain": "Van der Valk",
       "star_rating": 4,
       "gradia_grade": "B",
-      "overall_score": 69,
+      "overall_score": 67,
       "badge": "B | Service Excellence · Culinary",
       "earned_icons": [
         "service_excellence",
@@ -26,25 +26,25 @@
           "self_image": "PRESENT",
           "guest_perception": "STRONG",
           "gap": "HIDDEN_STRENGTH",
-          "score": 74
+          "score": 75
         },
         "wellness": {
           "self_image": "PRESENT",
           "guest_perception": "MIXED",
           "gap": "OVERESTIMATED",
-          "score": 55
+          "score": 58
         },
         "technology": {
           "self_image": "PRESENT",
           "guest_perception": "MIXED",
           "gap": "ALIGNED",
-          "score": 68
+          "score": 65
         },
         "heritage": {
           "self_image": "PRESENT",
-          "guest_perception": "MIXED",
-          "gap": "NEUTRAL",
-          "score": 60
+          "guest_perception": "SILENT",
+          "gap": "OVERESTIMATED",
+          "score": 55
         },
         "culinary": {
           "self_image": "LEAD",
@@ -56,25 +56,25 @@
           "self_image": "ABSENT",
           "guest_perception": "SILENT",
           "gap": "NEUTRAL",
-          "score": 30
+          "score": 38
         },
         "connect": {
           "self_image": "PRESENT",
-          "guest_perception": "STRONG",
-          "gap": "HIDDEN_STRENGTH",
-          "score": 76
+          "guest_perception": "MIXED",
+          "gap": "OVERESTIMATED",
+          "score": 63
         },
         "generations": {
           "self_image": "PRESENT",
           "guest_perception": "MIXED",
-          "gap": "OVERESTIMATED",
-          "score": 58
+          "gap": "ALIGNED",
+          "score": 64
         },
         "sustainability": {
           "self_image": "ABSENT",
           "guest_perception": "SILENT",
           "gap": "BLIND_SPOT",
-          "score": 28
+          "score": 30
         },
         "service_excellence": {
           "self_image": "LEAD",
@@ -86,13 +86,13 @@
           "self_image": "PRESENT",
           "guest_perception": "WEAK",
           "gap": "OVERESTIMATED",
-          "score": 45
+          "score": 50
         },
         "community": {
-          "self_image": "PRESENT",
-          "guest_perception": "MIXED",
-          "gap": "NEUTRAL",
-          "score": 60
+          "self_image": "ABSENT",
+          "guest_perception": "SILENT",
+          "gap": "BLIND_SPOT",
+          "score": 32
         }
       },
       "review_signals": {
@@ -111,26 +111,26 @@
           "priority": 1,
           "dimension": "sustainability",
           "type": "operational",
-          "action": "Formalise and publish a guest-facing sustainability programme leveraging existing EV charging and regional sourcing, and pursue a recognised green certification such as Green Key."
+          "action": "Create a visible Green Commitments page on the website and brief staff to actively communicate existing sustainable practices (EV charging, bike rental, Rootz concept) to guests, converting this Blind Spot into a marketable differentiator."
         },
         {
           "priority": 2,
-          "dimension": "wellness",
-          "type": "operational",
-          "action": "Partner with a local spa or therapist to introduce at least one bookable wellness experience that substantiates the 'kom helemaal tot rust' brand promise beyond the fitness room."
+          "dimension": "design",
+          "type": "marketing",
+          "action": "Produce dedicated Skybar SIXX and room-experience content (video reels, targeted landing pages) to convert consistently praised but under-marketed design assets into a direct booking acquisition driver."
         },
         {
           "priority": 3,
           "dimension": "inclusivity",
-          "type": "marketing",
-          "action": "Create a dedicated accessibility page on the hotel website and brief front desk staff to proactively communicate room and facility adaptations to guests requiring them."
+          "type": "operational",
+          "action": "Implement a clear in-room request fulfillment protocol, train restaurant staff on tap water service etiquette, and publish a dedicated Accessibility page to address recurring minor friction points and raise inclusivity standards."
         }
       ],
       "scan_history": [
         {
           "date": "2026-05-20",
           "grade": "B",
-          "score": 69
+          "score": 67
         }
       ]
     }
