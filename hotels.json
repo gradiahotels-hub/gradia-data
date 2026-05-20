@@ -13,7 +13,7 @@
       "chain": "Van der Valk",
       "star_rating": 4,
       "gradia_grade": "B",
-      "overall_score": 67,
+      "overall_score": 63,
       "badge": "B | Service Excellence · Culinary",
       "earned_icons": [
         "service_excellence",
@@ -26,25 +26,25 @@
           "self_image": "PRESENT",
           "guest_perception": "STRONG",
           "gap": "HIDDEN_STRENGTH",
-          "score": 75
+          "score": 74
         },
         "wellness": {
           "self_image": "PRESENT",
-          "guest_perception": "MIXED",
+          "guest_perception": "SILENT",
           "gap": "OVERESTIMATED",
-          "score": 58
+          "score": 44
         },
         "technology": {
           "self_image": "PRESENT",
           "guest_perception": "MIXED",
-          "gap": "ALIGNED",
-          "score": 65
+          "gap": "NEUTRAL",
+          "score": 62
         },
         "heritage": {
           "self_image": "PRESENT",
           "guest_perception": "SILENT",
           "gap": "OVERESTIMATED",
-          "score": 55
+          "score": 52
         },
         "culinary": {
           "self_image": "LEAD",
@@ -56,25 +56,25 @@
           "self_image": "ABSENT",
           "guest_perception": "SILENT",
           "gap": "NEUTRAL",
-          "score": 38
+          "score": 30
         },
         "connect": {
           "self_image": "PRESENT",
           "guest_perception": "MIXED",
           "gap": "OVERESTIMATED",
-          "score": 63
+          "score": 61
         },
         "generations": {
           "self_image": "PRESENT",
           "guest_perception": "MIXED",
-          "gap": "ALIGNED",
-          "score": 64
+          "gap": "NEUTRAL",
+          "score": 58
         },
         "sustainability": {
           "self_image": "ABSENT",
           "guest_perception": "SILENT",
           "gap": "BLIND_SPOT",
-          "score": 30
+          "score": 28
         },
         "service_excellence": {
           "self_image": "LEAD",
@@ -84,9 +84,9 @@
         },
         "inclusivity": {
           "self_image": "PRESENT",
-          "guest_perception": "WEAK",
+          "guest_perception": "SILENT",
           "gap": "OVERESTIMATED",
-          "score": 50
+          "score": 45
         },
         "community": {
           "self_image": "ABSENT",
@@ -111,26 +111,26 @@
           "priority": 1,
           "dimension": "sustainability",
           "type": "operational",
-          "action": "Create a visible Green Commitments page on the website and brief staff to actively communicate existing sustainable practices (EV charging, bike rental, Rootz concept) to guests, converting this Blind Spot into a marketable differentiator."
+          "action": "Build a visible sustainability commitment by formalising EV charging, introducing food-waste reduction targets for Rootz, and communicating progress on the website and at check-in."
         },
         {
           "priority": 2,
           "dimension": "design",
           "type": "marketing",
-          "action": "Produce dedicated Skybar SIXX and room-experience content (video reels, targeted landing pages) to convert consistently praised but under-marketed design assets into a direct booking acquisition driver."
+          "action": "Launch a dedicated Skybar SIXX and Rootz design/atmosphere content series on Instagram and the website to convert the hidden-strength gap into higher ADR and pre-stay expectations."
         },
         {
           "priority": 3,
-          "dimension": "inclusivity",
+          "dimension": "wellness",
           "type": "operational",
-          "action": "Implement a clear in-room request fulfillment protocol, train restaurant staff on tap water service etiquette, and publish a dedicated Accessibility page to address recurring minor friction points and raise inclusivity standards."
+          "action": "Develop a 'Rest & Restore' wellness concept with an in-room wellness menu and local spa partnership to substantiate the 'kom helemaal tot rust' brand promise with a product guests will notice and review."
         }
       ],
       "scan_history": [
         {
           "date": "2026-05-20",
           "grade": "B",
-          "score": 67
+          "score": 63
         }
       ]
     }
