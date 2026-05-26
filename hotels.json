@@ -13,8 +13,8 @@
       "chain": "W Hotels / Marriott International",
       "star_rating": 5,
       "gradia_grade": "C",
-      "overall_score": 38,
-      "badge": "C | Data Insufficient",
+      "overall_score": 0,
+      "badge": "UNSCOREABLE — Insufficient Data",
       "earned_icons": [],
       "last_scan": "2026-05-26",
       "scan_status": "provisional",
@@ -23,73 +23,73 @@
           "self_image": "LEAD",
           "guest_perception": "SILENT",
           "gap": "NEUTRAL",
-          "score": 55
+          "score": 0
         },
         "wellness": {
-          "self_image": "PRESENT",
+          "self_image": "LEAD",
           "guest_perception": "SILENT",
           "gap": "NEUTRAL",
-          "score": 45
+          "score": 0
         },
         "technology": {
           "self_image": "PRESENT",
           "guest_perception": "SILENT",
           "gap": "NEUTRAL",
-          "score": 45
+          "score": 0
         },
         "heritage": {
-          "self_image": "LEAD",
+          "self_image": "ABSENT",
           "guest_perception": "SILENT",
           "gap": "NEUTRAL",
-          "score": 55
+          "score": 0
         },
         "culinary": {
           "self_image": "LEAD",
           "guest_perception": "SILENT",
           "gap": "NEUTRAL",
-          "score": 50
+          "score": 0
         },
         "adventure": {
           "self_image": "ABSENT",
           "guest_perception": "SILENT",
           "gap": "NEUTRAL",
-          "score": 25
+          "score": 0
         },
         "connect": {
-          "self_image": "PRESENT",
+          "self_image": "LEAD",
           "guest_perception": "SILENT",
           "gap": "NEUTRAL",
-          "score": 40
+          "score": 0
         },
         "generations": {
           "self_image": "ABSENT",
           "guest_perception": "SILENT",
           "gap": "NEUTRAL",
-          "score": 25
+          "score": 0
         },
         "sustainability": {
-          "self_image": "ABSENT",
+          "self_image": "PRESENT",
           "guest_perception": "SILENT",
           "gap": "NEUTRAL",
-          "score": 30
+          "score": 0
         },
         "service_excellence": {
           "self_image": "LEAD",
           "guest_perception": "SILENT",
           "gap": "NEUTRAL",
-          "score": 50
+          "score": 0
         },
         "inclusivity": {
           "self_image": "PRESENT",
           "guest_perception": "SILENT",
           "gap": "NEUTRAL",
-          "score": 40
+          "score": 0
         },
         "community": {
           "self_image": "PRESENT",
           "guest_perception": "SILENT",
           "gap": "NEUTRAL",
-          "score": 38
+          "score": 0
         }
       },
       "review_signals": {
@@ -108,26 +108,26 @@
           "priority": 1,
           "dimension": "service_excellence",
           "type": "operational",
-          "action": "Audit and restore crawlability of official web presence and ensure active population of third-party review platforms to enable accurate perception monitoring."
+          "action": "Establish a verified live review aggregation pipeline for W Budapest across all major platforms before any GRADIA scoring can be meaningfully completed."
         },
         {
           "priority": 2,
-          "dimension": "heritage",
+          "dimension": "design",
           "type": "marketing",
-          "action": "Explicitly amplify the Neo-Renaissance landmark building story across all digital channels to differentiate W Budapest from competing luxury lifestyle hotels."
+          "action": "Once data is available, audit whether W Budapest's bold design and social programming are translating into guest-reported perception to confirm brand investment is delivering ALIGNED results."
         },
         {
           "priority": 3,
-          "dimension": "sustainability",
+          "dimension": "service_excellence",
           "type": "operational",
-          "action": "Surface property-specific sustainability initiatives linked to Marriott's group-level programs to address the current complete absence of green credentials in guest-facing communication."
+          "action": "Conduct structured sentiment analysis on staff interaction reviews to verify whether the W 'Whatever/Whenever' service promise holds at the property level."
         }
       ],
       "scan_history": [
         {
           "date": "2026-05-26",
           "grade": "C",
-          "score": 38
+          "score": 0
         }
       ]
     }
